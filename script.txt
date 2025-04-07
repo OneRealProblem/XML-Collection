@@ -1,0 +1,3 @@
+show
+insert_key 10
+show
